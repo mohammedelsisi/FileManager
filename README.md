@@ -7,6 +7,7 @@
 
 <h1 align="center">Files Manager</h1>
 
+
 <p align="center">
 
 
@@ -45,13 +46,17 @@ Applying permissions and roles for users who can create or only view files.
 
 download file. 
 
+## ERD ##
+
+![](screenshots/ERD.png)
+
 ## :sparkles: Features ##
 
 :heavy_check_mark: create spaces;\
 :heavy_check_mark: create folders;\
 :heavy_check_mark: upload and download files;\
-:heavy_check_mark: Authorize users based on their permission to edit or view;
-:heavy_check_mark: pagination in the backend;\
+:heavy_check_mark: Authorize users based on their permission to edit or view;\
+:heavy_check_mark: pagination in the backend;
 
 ## :rocket: Technologies ##
 
